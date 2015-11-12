@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<QuestionXmlList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <QuestionString>Сколько поколений языков программирования сейчас выделяют?</QuestionString>
+    <Answers>
+      <string>3</string>
+      <string>4</string>
+      <string>5</string>
+      <string>6</string>
+    </Answers>
+    <TrueAnswer>5</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>К какому поколению языков программирования относят первые универсальные языки?</QuestionString>
+    <Answers>
+      <string>2</string>
+      <string>3</string>
+      <string>4</string>
+      <string>5</string>
+    </Answers>
+    <TrueAnswer>3</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Как называется первый алгоритмический язык?</QuestionString>
+    <Answers>
+      <string>COBOL</string>
+      <string>ALGOL</string>
+      <string>BASIC</string>
+      <string>FORTRAN</string>
+    </Answers>
+    <TrueAnswer>FORTRAN</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Какой язык программирования использовался как официальный при публикации алгоритмов?</QuestionString>
+    <Answers>
+      <string>Си</string>
+      <string>Java</string>
+      <string>ALGOL</string>
+      <string>FORTRAN</string>
+    </Answers>
+    <TrueAnswer>ALGOL</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>На каком языке было написано ядро UNIX?</QuestionString>
+    <Answers>
+      <string>Си</string>
+      <string>Assembler</string>
+      <string>Pascal</string>
+      <string>C++</string>
+    </Answers>
+    <TrueAnswer>Си</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Метод программирования - это ...?</QuestionString>
+    <Answers>
+      <string>совокупность идей и понятий, определяющих стиль написания компьютерных программ</string>
+      <string>набор правил и соглашений, используемых при написании исходного кода</string>
+      <string>структура, согласно которой построена разработка программного обеспечения</string>
+      <string>совокупность способов, средств и технологий создания программ</string>
+    </Answers>
+    <TrueAnswer>совокупность способов, средств и технологий создания программ</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Какой язык программирования поддерживает объектно-ориентированный подход?</QuestionString>
+    <Answers>
+      <string>Си</string>
+      <string>Assembler</string>
+      <string>Verilog</string>
+      <string>C#</string>
+    </Answers>
+    <TrueAnswer>C#</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Способ выделить набор значимых характеристик объекта, исключая из рассмотрения незначимые - это?</QuestionString>
+    <Answers>
+      <string>Абстракция</string>
+      <string>Переосмысление</string>
+      <string>Компоновка</string>
+      <string>Метод</string>
+    </Answers>
+    <TrueAnswer>Абстракция</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Свойство системы, позволяющее объединить данные и методы, работающие с ними в классе, и скрыть детали реализации от пользователя - это?</QuestionString>
+    <Answers>
+      <string>Целостность</string>
+      <string>Инкапсуляция</string>
+      <string>Иерархичность</string>
+      <string>Закрытость</string>
+    </Answers>
+    <TrueAnswer>Инкапсуляция</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Свойство системы, позволяющее описать новый класс на основе уже существующего с частично или полностью заимствующейся функциональностью - это</QuestionString>
+    <Answers>
+      <string>Полиморфизм</string>
+      <string>Унификация</string>
+      <string>Наследование</string>
+      <string>Инкапсуляция</string>
+    </Answers>
+    <TrueAnswer>Наследование</TrueAnswer>
+  </Items>
+  <Items>
+    <QuestionString>Свойство системы использовать объекты с одинаковым интерфейсом без информации о типе и внутренней структуре объекта - это?</QuestionString>
+    <Answers>
+      <string>Полиморфизм</string>
+      <string>Суперкласс</string>
+      <string>Трансформируемость</string>
+      <string>Шаблон</string>
+    </Answers>
+    <TrueAnswer>Полиморфизм</TrueAnswer>
+  </Items>
+</QuestionXmlList>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestMaker.DAL.Question">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestMaker.DAL.XmlWorker">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\XmlWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestTool.DAL.QuestionXmlList">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <AssociationLine Name="Items" Type="TestMaker.DAL.Question" FixedFromPoint="true">
+      <Path>
+        <Point X="10.25" Y="8.75" />
+        <Point X="10.25" Y="8.238" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.086" Y="0.189" Height="0.182" Width="0.654" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\QuestionXmlList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Items" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Test.DAL.TestItem">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <AssociationLine Name="Question" Type="TestMaker.DAL.Question">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.082" Y="0.123" Height="0.182" Width="0.82" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAEAABAAgACAAA=</HashCode>
+      <FileName>DAL\TestItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Question" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Test.FmFinish">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Item" Type="Test.DAL.TestItem">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.115" Y="0.11" Height="0.182" Width="0.624" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EQAAAAIAAiAAABQQAACAAAAGAEAAAAAAAAAAACAAAQA=</HashCode>
+      <FileName>FmFinish.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Item" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Test.FmMain">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAmAAAAAQAACAAAACAAAAAAASAAAAAAAAAAA=</HashCode>
+      <FileName>FmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.FmTest">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAgAABAACiCAABQAAwLABQDGAAAQAAAACAAAkEBAAQA=</HashCode>
+      <FileName>FmTest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Item" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

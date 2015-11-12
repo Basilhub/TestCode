@@ -1,0 +1,10 @@
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\bin\Debug\Test.exe
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\bin\Debug\Test.pdb
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.FmMain.resources
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.Properties.Resources.resources
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.exe
+c:\users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.pdb
+C:\Users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.FmTest.resources
+C:\Users\kibermustdie\documents\visual studio 2010\Projects\Test\obj\x86\Debug\Test.FmFinish.resources

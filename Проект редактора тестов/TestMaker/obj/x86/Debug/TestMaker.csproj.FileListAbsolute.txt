@@ -1,0 +1,10 @@
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.fmMain.resources
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.Properties.Resources.resources
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.csproj.GenerateResource.Cache
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\bin\Debug\TestMaker.exe
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\bin\Debug\TestMaker.pdb
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.exe
+c:\users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.pdb
+C:\Users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.fmEditQuestion.resources
+C:\Users\kibermustdie\documents\visual studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.fmEditTest.resources
+C:\Users\kibermustdie\Documents\Visual Studio 2010\Projects\TestMaker\obj\x86\Debug\TestMaker.csprojResolveAssemblyReference.cache
